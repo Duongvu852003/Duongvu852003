@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T14:13:15.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="qkWHDBC7BLQtAIEq3MAu" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T14:18:33.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="GeIIb-MAie_-a-6RF6EL" version="22.1.0" type="github">
   <diagram name="Trang-1" id="NK_kYnIEBoEDkR1kCW_3">
-    <mxGraphModel dx="1970" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2178" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -312,16 +312,16 @@
         <mxCell id="In0ACsNn3nNOARFCslo5-99" value="Bao gồm" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="10" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In0ACsNn3nNOARFCslo5-102" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="In0ACsNn3nNOARFCslo5-102" value="Mua" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In0ACsNn3nNOARFCslo5-103" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="In0ACsNn3nNOARFCslo5-103" value="Có" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In0ACsNn3nNOARFCslo5-104" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="In0ACsNn3nNOARFCslo5-104" value="Có" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In0ACsNn3nNOARFCslo5-105" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="In0ACsNn3nNOARFCslo5-105" value="Thuộc" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="In0ACsNn3nNOARFCslo5-110" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="In0ACsNn3nNOARFCslo5-42" target="In0ACsNn3nNOARFCslo5-39">
